@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+# Hello Everyone Welcome to my portfolio 2!
 
-You can use the [editor on GitHub](https://github.com/un782357/Portfolio-Two/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<img src = "https://github.com/un782357/Portfolio-Two/blob/main/125075284_10225012184590716_8293133638532373443_n.jpg" width=200>
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I am Unity -a fourth year Neuroscience student at Dalhousie University. This portfolio will showcase the coding skills I have developed in Neural Data Science (NESC3505). 
 
-```markdown
-Syntax highlighted code block
+Topics I will be covering in this portfolio are:
 
-# Header 1
-## Header 2
-### Header 3
+Statiscal Analysis:
+Metplotlib
+[Image Reading, Manipulation, Visualization, and Masking](image_manuipulation.md)
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+### Python Data Types
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+The numbers and values we use in python all have a specific type and you can find out what the value type is with the type function type(). For example to see a type for weight you  
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/un782357/Portfolio-Two/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
