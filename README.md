@@ -10,7 +10,7 @@ Topics I will be covering in this portfolio are:
 
 Statiscal Analysis:
 Metplotlib
-[Image Reading, Manipulation, Visualization, and Masking](image_manuipulation.md)
+[Image Reading, Manipulation, Visualization, and Masking(image_manuipulation.md)
 
 ### Python Data Types
 
