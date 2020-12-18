@@ -9,7 +9,9 @@ I am Unity -a fourth year Neuroscience student at Dalhousie University. This por
 Topics I will be covering in this portfolio are:
 
 Statiscal Analysis:
-Metplotlib
+
+Metplotlib:
+
 [Image Reading, Manipulation, Visualization, and Masking](image_manipulation.md)
 
 ### Python Data Types
