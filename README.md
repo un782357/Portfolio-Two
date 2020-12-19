@@ -19,3 +19,7 @@ Here is a Matplotlib example [histogram with title and labels](histogram.md)
 #### Image Visualization
 
 Here I will do [Image Reading, Manipulation, Visualization, and Masking](image_manipulation.md)
+
+#### Support or Contact
+
+Feel free to reach me at [Unity Cooper](mailto:un782357@dal.ca).
