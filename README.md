@@ -12,10 +12,10 @@ I am Unity -a fourth year Neuroscience student at Dalhousie University. This por
 
 The numbers and values use in python all have a specific type and you can find out what the value type is with the type function type(). [For example to see a type for weight you](Type.md)
 
-
-#### Image Visualization
-Here I will do [Image Reading, Manipulation, Visualization, and Masking](image_manipulation.md)
-
 #### Metaplotlib example Histogram
 
 Here is a Matplotlib example [histogram with title and labels](histogram.md) 
+
+#### Image Visualization
+
+Here I will do [Image Reading, Manipulation, Visualization, and Masking](image_manipulation.md)
