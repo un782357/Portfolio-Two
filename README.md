@@ -7,8 +7,8 @@
 I am Unity -a fourth year Neuroscience student at Dalhousie University. This portfolio will showcase the coding skills I have developed in Neural Data Science (NESC3505). 
 
 Topics I will be covering in this portfolio are:
-
-[Image Reading, Manipulation, Visualization, and Masking](image_manipulation.md)
+#### Image Visualization
+Here I will do [Image Reading, Manipulation, Visualization, and Masking](image_manipulation.md)
 
 ##### Metaplotlib example Histogram
 
