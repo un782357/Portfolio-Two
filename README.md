@@ -12,7 +12,7 @@ Topics I will be covering in this portfolio are:
 
 ##### Metaplotlib example Histogram
 
-Here is an example of 
+Here is a Matplotlib example [histogram with title and labels](histogram.md) 
 
 
 
