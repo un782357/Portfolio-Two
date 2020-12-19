@@ -6,20 +6,16 @@
 
 I am Unity -a fourth year Neuroscience student at Dalhousie University. This portfolio will showcase the coding skills I have developed in Neural Data Science (NESC3505). 
 
-Topics I will be covering in this portfolio are:
+### Topics I will be covering in this portfolio are:
+
+#### Python Data Types
+
+The numbers and values use in python all have a specific type and you can find out what the value type is with the type function type(). For example to see a type for weight you  
+
+
 #### Image Visualization
 Here I will do [Image Reading, Manipulation, Visualization, and Masking](image_manipulation.md)
 
-##### Metaplotlib example Histogram
+#### Metaplotlib example Histogram
 
 Here is a Matplotlib example [histogram with title and labels](histogram.md) 
-
-
-
-
-
-### Python Data Types
-
-The numbers and values we use in python all have a specific type and you can find out what the value type is with the type function type(). For example to see a type for weight you  
-
-
