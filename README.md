@@ -1,4 +1,4 @@
-# Hello Everyone Welcome to Portfolio 2!
+## Hello Everyone Welcome to Portfolio 2!
 
 
 <img src = "125075284_10225012184590716_8293133638532373443_n.jpg" width=150>
@@ -10,6 +10,9 @@ Topics I will be covering in this portfolio are:
 
 [Image Reading, Manipulation, Visualization, and Masking](image_manipulation.md)
 
+##### Metaplotlib example Histogram
+
+Here is an example of 
 
 
 
