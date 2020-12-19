@@ -10,7 +10,7 @@ I am Unity -a fourth year Neuroscience student at Dalhousie University. This por
 
 #### Python Data Types
 
-The numbers and values use in python all have a specific type and you can find out what the value type is with the type function type(). For example to see a type for weight you  
+The numbers and values use in python all have a specific type and you can find out what the value type is with the type function type(). [For example to see a type for weight you](Type.md)
 
 
 #### Image Visualization
